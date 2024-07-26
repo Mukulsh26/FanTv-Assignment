@@ -1,0 +1,27 @@
+.Heading{
+    font-family: 'Nohemi';
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 38.4px;
+    letter-spacing: 2%;
+    background: linear-gradient(90deg,#FFFFFF 0%, #999999 40%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.Content{
+    font-family: 'Nohemi';
+    line-height: 19.2px;
+    letter-spacing: 2%;
+    max-width: 70%;
+    margin: auto;
+    justify-content: center;
+    color: #D2D2D2;
+    text-align: center;
+}
+
+.BottomContainer{
+    padding: 125px 100px 100px 100px;
+}
